@@ -20,8 +20,11 @@ Authenticated encryption (AE) allow you to both encrypt data (privacy) and ensur
 
 If you send data unencrypted, you don't have privacy. If you don't have authentication and a middle man has access to your encryption method, he could send wrong message to the user you wanted to send a message to.
 
-## 4. Name few authenticated encryption modes.
+## 4. Name few authenticated encryption modes
 
 - Encrypt-and-Authenticate
 - Authenticate-then-Encrypt
 - Encrypt-then-Authenticate
+
+## 5. Write a program that encrypts and decrypts using GCM mode of encryption
+
