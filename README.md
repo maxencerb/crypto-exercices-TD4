@@ -28,3 +28,4 @@ If you send data unencrypted, you don't have privacy. If you don't have authenti
 
 ## 5. Write a program that encrypts and decrypts using GCM mode of encryption
 
+Answer in [this file](GCM.py).
